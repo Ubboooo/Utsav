@@ -1,0 +1,164 @@
+.top{
+  background-color: #698474;
+  height: 400px;
+  margin: 0px;
+  border: 0px;
+  position: relative;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+  .middle-container
+  {
+    display: inline-block;
+    margin: 0px;
+    padding-bottom: 100px;
+    padding-top: 100px;
+  }
+
+.internet{
+
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin-right: 20px;
+  padding-top: 0px;
+}
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+a{
+  font-family: 'Montserrat', sans-serif;
+  color: #fcf8f3;
+}
+a:hover{
+  color: #cae8d5;
+}
+.about{
+  position: absolute;
+  text-decoration: none;
+  right :100px;
+  font-size: 20px;
+  top: 20px;
+}
+h1{
+  font-size: 5.625rem;
+  color: #698474;
+  margin-bottom: 0px;
+
+}
+h2{
+  margin-top: 0px;
+  padding-top: 0px;
+  font-size: 4rem;
+  color: #698474;
+}
+h3
+{
+
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 0px;
+  margin-top: 50px;
+}
+hr{
+  width: 5%;
+  border: dotted 6px;
+  border-bottom: 0px;
+  margin: 100px auto;
+}
+.FirstHeading{
+  font-family: 'Sacramento', cursive;
+  margin:auto;
+  position: absolute;
+  left: 525px;
+  top: 130px;
+  color: black;
+}
+body{
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514e;
+}
+.boy{
+  background-color: black;
+  border-radius: 50%;
+  position: absolute;
+  left: 80px;
+  top: 30px;
+  height: 100px;
+  width: 100px
+}
+.boy:hover{
+  color: white;
+}
+.left-cloud
+{
+  position: absolute;
+  bottom: 80px;
+  left :80px;
+}
+.left-flag{
+  height: 200px;
+  width:100px;
+  position: absolute;
+  bottom: 0px;
+  left: 300px;
+}
+.right-flag{
+  position: absolute;
+  height: 200px;
+  width: 100px;
+  bottom: 0px;
+  right: 300px;
+}
+.right-cloud{
+  position: absolute;
+  bottom: 80px;
+  right:80px;
+}
+.beer{
+  height: 25%;
+  width: 25%;
+  float: right;
+  margin-right: 20px;
+  margin-bottom: 100px;
+}
+p{
+  margin-top: 0px;
+  color:
+}
+.css{
+  height: 200px;
+  width: 200px;
+  float: left;
+  padding-bottom: 50px;
+  margin-right: 20px;
+}
+.skills{
+  margin-top: 0px;
+  width: auto;
+}
+.bottom-container{
+  line-height: 2;
+  background-color: #698474;
+  margin-bottom: 0px;
+  padding-top: 50px;
+}
+.copyright{
+  padding-bottom: 100px;
+    color: white;
+  font-size: 10px;
+}
+.footer-link{
+  margin: auto;
+  text-decoration: none;
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-left: 50px;
+}

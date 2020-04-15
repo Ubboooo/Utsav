@@ -1,0 +1,180 @@
+/**************http://seanhalpin.io/assets/img/content/home/masthead/land.svg***********/
+.topcontainer
+{
+  background-color: #698474;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 0px;
+}
+.middle-container
+{
+  margin: auto;
+  background-color: #fff;
+}
+.bottom-container
+{
+  background-color: #698474;
+  line-height: 2;
+  height: 150px;
+  padding: 50px 0 20px;
+}
+.skills{
+  background-color: #fff;
+}
+h1
+{
+  font-size: 5.625rem;
+margin-top: 50px;
+font-family: 'Sacramento', cursive;
+margin-bottom: 0px;
+color: #698474;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  margin-top: 0px;
+  color: #698474;
+  padding-bottom: 10px;
+}
+a{
+  color: #b7efcd;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 30px;
+  text-decoration: none;
+}
+a:hover{
+  color: #edffea;
+}
+hr{
+  width: 5%;
+  border: dotted  #687466 6px;
+  border-bottom: none;
+  margin: 100px auto;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #235952;
+}
+
+body{
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514e;
+}
+.bottom-cloud
+{
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+.top-cloud
+{
+  position: absolute;
+  right: 300px;
+  top: 70px;
+}
+.ubboo{
+  border-radius: 40px;
+  padding: 20px;
+  width: 300px;
+  height: 300px;
+
+}
+.computer{
+  height: 25%;
+  width: 25%;
+  float: left;
+  margin-right: 40px;
+}
+.beer
+{
+  float: right;
+  height: 25%;
+  width: 25%;
+  margin-left: 40px;
+}
+
+.web-developer{
+  font-weight: normal;
+  color: #d8ebb5;
+}
+.FirstHeading
+{
+  color: #d8ebb5;
+}
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.intro
+{
+  width: 30%;
+  margin: auto;
+  line-height: 2;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.button {
+  margin-bottom: 70px;
+  width: 200px;
+  height: 20px;
+  padding: auto;
+	box-shadow: 0px 1px 0px 0px #698474;
+	background-color:#698474;
+	border-radius:6px;
+	border:0px solid #698474;
+	display:inline-block;
+	cursor:pointer;
+	color:#f4efd3;
+	font-family: 'Merriweather', serif;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #698474;
+}
+.button:hover {
+	background-color:#687466;
+}
+.button:active {
+	position:relative;
+	top:1px;
+}
+.copyright{
+  color: #edffea;
+  font-size: 0.75rem;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.boy{
+  border-radius: 50%;
+  position: absolute;
+  left: 80px;
+  top: 30px;
+  height: 100px;
+  width: 100px;
+  background-color: white;
+}
+.mountain{
+  position: static;
+  padding-bottom: 0px;
+}
+.work{
+  color: black;
+  position: absolute;
+  right :80px;
+  font-size: 20px;
+  top: 20px;
+}
